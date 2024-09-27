@@ -20,7 +20,7 @@ Project created with:
 To setup this project, install the requirements using pip:
 
 ```
-  pip install -r requirements.txt
+  pip install matplotlib
 ```
 
 Then run the file main.py
